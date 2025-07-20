@@ -1,0 +1,8 @@
+br\edu\ifnmg\poo\visitorflyweight\flyweight\CorFactory.class
+br\edu\ifnmg\poo\visitorflyweight\visitor\DesenharVisitor.class
+br\edu\ifnmg\poo\visitorflyweight\visitor\FormaVisitor.class
+br\edu\ifnmg\poo\visitorflyweight\visitor\Circulo.class
+br\edu\ifnmg\poo\visitorflyweight\flyweight\Cor.class
+br\edu\ifnmg\poo\visitorflyweight\visitor\Forma.class
+br\edu\ifnmg\poo\visitorflyweight\main\Main.class
+br\edu\ifnmg\poo\visitorflyweight\visitor\Quadrado.class

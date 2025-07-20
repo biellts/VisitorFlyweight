@@ -1,0 +1,50 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+21
+-sourcepath
+'D:/Arquivos 20-05-2022/Documents/NetBeansProjects/VisitorFlyweight/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Arquivos 20-05-2022/Documents/NetBeansProjects/VisitorFlyweight/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'VisitorFlyweight 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'VisitorFlyweight 1.0-SNAPSHOT API'
+br.edu.ifnmg.poo.visitorflyweight.flyweight
+br.edu.ifnmg.poo.visitorflyweight.main
+br.edu.ifnmg.poo.visitorflyweight.visitor
+D:\Arquivos 20-05-2022\Documents\NetBeansProjects\VisitorFlyweight\src\main\java = 1752934612815
+D:\Arquivos 20-05-2022\Documents\NetBeansProjects\VisitorFlyweight\target\reports\apidocs\allclasses-index.html = 1752939906480
+D:\Arquivos 20-05-2022\Documents\NetBeansProjects\VisitorFlyweight\target\reports\apidocs\allpackages-index.html = 1752939906485
+D:\Arquivos 20-05-2022\Documents\NetBeansProjects\VisitorFlyweight\target\reports\apidocs\copy.svg = 1752939906564
+D:\Arquivos 20-05-2022\Documents\NetBeansProjects\VisitorFlyweight\target\reports\apidocs\element-list = 1752939906196
+D:\Arquivos 20-05-2022\Documents\NetBeansProjects\VisitorFlyweight\target\reports\apidocs\help-doc.html = 1752939906553
+D:\Arquivos 20-05-2022\Documents\NetBeansProjects\VisitorFlyweight\target\reports\apidocs\index-all.html = 1752939906537
+D:\Arquivos 20-05-2022\Documents\NetBeansProjects\VisitorFlyweight\target\reports\apidocs\index.html = 1752939906422
+D:\Arquivos 20-05-2022\Documents\NetBeansProjects\VisitorFlyweight\target\reports\apidocs\link.svg = 1752939906568
+D:\Arquivos 20-05-2022\Documents\NetBeansProjects\VisitorFlyweight\target\reports\apidocs\member-search-index.js = 1752939906494
+D:\Arquivos 20-05-2022\Documents\NetBeansProjects\VisitorFlyweight\target\reports\apidocs\module-search-index.js = 1752939906487
+D:\Arquivos 20-05-2022\Documents\NetBeansProjects\VisitorFlyweight\target\reports\apidocs\overview-summary.html = 1752939906544
+D:\Arquivos 20-05-2022\Documents\NetBeansProjects\VisitorFlyweight\target\reports\apidocs\overview-tree.html = 1752939906413
+D:\Arquivos 20-05-2022\Documents\NetBeansProjects\VisitorFlyweight\target\reports\apidocs\package-search-index.js = 1752939906489
+D:\Arquivos 20-05-2022\Documents\NetBeansProjects\VisitorFlyweight\target\reports\apidocs\script.js = 1752939906561
+D:\Arquivos 20-05-2022\Documents\NetBeansProjects\VisitorFlyweight\target\reports\apidocs\search-page.js = 1752939906609
+D:\Arquivos 20-05-2022\Documents\NetBeansProjects\VisitorFlyweight\target\reports\apidocs\search.html = 1752939906541
+D:\Arquivos 20-05-2022\Documents\NetBeansProjects\VisitorFlyweight\target\reports\apidocs\search.js = 1752939906605
+D:\Arquivos 20-05-2022\Documents\NetBeansProjects\VisitorFlyweight\target\reports\apidocs\stylesheet.css = 1752939906558
+D:\Arquivos 20-05-2022\Documents\NetBeansProjects\VisitorFlyweight\target\reports\apidocs\tag-search-index.js = 1752939906496
+D:\Arquivos 20-05-2022\Documents\NetBeansProjects\VisitorFlyweight\target\reports\apidocs\type-search-index.js = 1752939906492

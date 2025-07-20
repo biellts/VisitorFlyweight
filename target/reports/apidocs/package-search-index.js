@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"br.edu.ifnmg.poo.visitorflyweight.flyweight"},{"l":"br.edu.ifnmg.poo.visitorflyweight.main"},{"l":"br.edu.ifnmg.poo.visitorflyweight.visitor"}];updateSearchResults();
