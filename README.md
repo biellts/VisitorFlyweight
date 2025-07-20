@@ -1,4 +1,5 @@
-Projeto VisitorFlyweight
+Projeto VisitorFlyweight:
+
 Este projeto demonstra a implementação dos padrões de projeto Visitor e Flyweight em Java. Ele inclui um sistema para criar e gerenciar formas geométricas (círculos e quadrados) com instâncias de cores compartilhadas, aplicando um visitor para realizar operações como desenhar.
 
 Descrição
